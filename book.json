@@ -1,0 +1,69 @@
+{
+    "author": "zouhanpeng",
+    "description": "This is record sharing by zouhanpeng.",
+    "extension": null,
+    "generator": "site",
+    "isbn": "",
+    "links": {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        },
+        "sidebar": {
+            "谷歌": "https://www.google.com"
+        }
+    },
+    "output": null,
+    "pdf": {
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": true,
+        "paperSize": "a4"
+    },
+    "plugins": ["code", "pageview-count", "popup", "tbfed-pagefooter", "favicon",
+    "search-plus", "expandable-chapters", "hide-element", "back-to-top-button", "splitter",
+    "-lunr", "-search", "-sharing", "sharing-plus", "chapter-fold", "katex"],
+    "pluginsConfig": {
+        "hide-element": {
+            "elements": [".gitbook-link"]
+        },
+        "tbfed-pagefooter": {
+            "copyright": "Copyright © zouhanpeng_92@163.com 2021",
+            "modify_label": "该文章修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "favicon": {
+            "shortcut": "assets/favicon.ico",
+            "bookmark": "assets/favicon.ico",
+            "appleTouch": "assets/favicon.ico",
+            "appleTouchMore": {
+                "120x120": "assets/favicon.ico",
+                "180x180": "assets/favicon.ico"
+            }
+        },
+        "fontsettings": {
+            "theme": "white",
+            "family": "sans",
+            "size": 2
+        },
+        "sharing": {
+            "all": ["facebook", "google", "linkedin", "twitter", "weibo", "qq"]
+        }
+    },
+    "language": "zh-hans",
+    "title": "zouhanpeng",
+    "variables": {},
+    "styles": {
+        "website": "assets/styles/website.css"
+    }
+}
