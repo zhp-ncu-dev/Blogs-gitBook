@@ -18,14 +18,14 @@
     },
     "output": null,
     "pdf": {
-        "fontSize": 12,
+        "fontSize": 20,
         "footerTemplate": null,
         "headerTemplate": null,
         "margin": {
             "bottom": 36,
-            "left": 62,
-            "right": 62,
-            "top": 36
+            "left": 30,
+            "right": 30,
+            "top": 15
         },
         "pageNumbers": true,
         "paperSize": "a4"
